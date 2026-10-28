@@ -1,0 +1,5 @@
+feature,reference_count,current_count,ks_statistic,p_value,drift_detected
+amount,1600,1000,0.426875,3.5369636352093316e-101,YES
+hour,1600,1000,0.1075,1.2068369553046218e-06,YES
+merchant_risk,1600,1000,0.603625,1.4170458037246174e-209,YES
+account_age_days,1600,1000,0.09,8.706808565910644e-05,YES

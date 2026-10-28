@@ -1,0 +1,5 @@
+Confusion Matrix
+Labels: 0 = Legitimate, 1 = Fraud
+
+[[252  74]
+ [ 48  26]]
